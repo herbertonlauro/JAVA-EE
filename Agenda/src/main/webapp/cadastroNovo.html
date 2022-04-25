@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Agenda de contatos</title>
+<link rel="icon" href="imagens/favicon.png">
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"	rel="stylesheet">
+<script type="text/javascript" src="scripts/validarFormulario.js"></script>
+</head>
+<body>
+
+	<div class="main-block">
+		<div class="left-part">
+			<i class="fas fa-envelope"></i> 
+			<i class="fas fa-at"></i> 
+			<i class="fas fa-mail-bulk"></i>
+		</div>
+
+		<form name="FormCadastro" action="insert">
+			<h1>Agenda de Contatos</h1>
+			<h2>Cadastro de contatos</h2>
+			<p>Preencha todos os dados</p>
+			<div class="info">
+				<input class="fname" type="text" name="nome" placeholder="Nome"	required> 
+				<input type="text" name="email"	placeholder="E-mail" required> 
+				<input type="text" name="fone" placeholder="Telefone" required >
+           </div>
+			<input type="submit" class="botao" value="CADASTRAR"  onclick=Validar()>
+			<input type="button" value="CANCELAR"onclick="window.location.href='main';"/> 
+		</form>
+	</div>
+
+</body>
+</html>
