@@ -28,6 +28,7 @@ Este projeto é ideal para quem quer dar os primeiros passos no desenvolvimento 
 Aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **O desenvolvedor** - *Aluno* - [Herberton Lauro](https://github.com/herbertonlauro)
+* **LinkedIn Herberton Lauro** -  [Herberton Lauro](https://www.linkedin.com/today/author/herbertonlauro)
 
 
 
