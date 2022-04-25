@@ -1,6 +1,6 @@
 # JAVA-EE
 Projeto Java WEB -
-Projeto acadêmico - Agenda web em java EE, JDBC, SERVLET, MYSQL .
+Projeto acadêmico - Agenda web em java
 
 ### 📋 Tecnologias que foram usadas neste projeto:
 
