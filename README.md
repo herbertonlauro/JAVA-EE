@@ -1,3 +1,3 @@
 # JAVA-EE
-Projeto Java WEB - AGENDA
+Projeto Java WEB -
 Projeto academico - Agenda web em java EE, JDBC, SERVLET, MYSQL .
