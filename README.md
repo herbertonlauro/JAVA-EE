@@ -39,4 +39,9 @@ Aqueles que ajudaram a levantar o projeto desde o seu início
 * Agradeço a Deus pelo conhecimento adquirido 🤓 
 * Agradeço ao professor José pelas instruções 📢 
 
+## Telas do projeto Agenda JavaWEB 
 
+* **Telas do projeto Agenda JavaWEB** - *todas as Imagens* - [Imagens da telas do projeto](https://github.com/herbertonlauro/JAVA-EE/issues/1#issue-1215386717) 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/38021462/165222838-22ed93b7-1ae2-4562-97e1-29a5cf4dbb43.png"/>
+</div>
