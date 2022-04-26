@@ -183,7 +183,7 @@ public class Controller extends HttpServlet {
 			
 			documento.open();
 			
-			Image imagem = Image.getInstance("C:\\Users\\ton\\eclipse-workspace\\ProgetoCrud\\src\\main\\webapp\\imagens\\logoC.png");
+			Image imagem = Image.getInstance("C:\\Users\\ton\\eclipse-workspace\\Agendaweb\\src\\main\\webapp\\imagens\\logoC.png");
 			imagem.scaleAbsolute(30f, 30f);
 			imagem.setAlignment(Element.ALIGN_LEFT);
 			documento.add(imagem);
