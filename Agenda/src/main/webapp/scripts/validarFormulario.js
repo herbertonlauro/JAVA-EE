@@ -6,11 +6,11 @@
 function Validar() {
 	var nome = FormCadastro.nome.value
 	var fone = FormCadastro.fone.value
-	if (nome === "") {
+	if (nome == "") {
 		alert('ops!!! Faltou o Nome ')
 		FormCadastro.nome.focus()
 		return false
-	} else if (fone === "") {
+	} else if (fone == "") {
 		alert('ops!!! Faltou o telefone ')
 		FormCadastro.fone.focus()
 		return false
